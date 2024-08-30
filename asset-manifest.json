@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/juegoturnos/static/css/main.f855e6bc.css",
+    "main.js": "/juegoturnos/static/js/main.cc84fd6b.js",
+    "static/js/453.c3c435ca.chunk.js": "/juegoturnos/static/js/453.c3c435ca.chunk.js",
+    "static/media/logo.svg": "/juegoturnos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/juegoturnos/index.html",
+    "main.f855e6bc.css.map": "/juegoturnos/static/css/main.f855e6bc.css.map",
+    "main.cc84fd6b.js.map": "/juegoturnos/static/js/main.cc84fd6b.js.map",
+    "453.c3c435ca.chunk.js.map": "/juegoturnos/static/js/453.c3c435ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cc84fd6b.js"
+  ]
+}
